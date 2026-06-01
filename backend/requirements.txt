@@ -3,5 +3,6 @@ uvicorn[standard]==0.29.0
 sqlalchemy==2.0.30
 psycopg2-binary==2.9.9
 pydantic[email]==2.7.1
+pydantic-core==2.18.2
 python-dotenv==1.0.1
 alembic==1.13.1
